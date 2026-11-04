@@ -1,5 +1,7 @@
 Welcome to your new dbt project!
 
+Civica's course on dbt using snowflake, this is a repo testing all the exercices and challeguens to try out the platform.
+
 ### Using the starter project
 
 Try running the following commands:
