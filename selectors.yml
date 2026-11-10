@@ -28,3 +28,9 @@ selectors:
         - exclude:
             - method: resource_type
               value: snapshot
+
+  - name: dominio_product
+    description: "Todos los modelos y dependencias del dominio product."
+    definition:
+      method: tag
+      value: product
