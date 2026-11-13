@@ -78,10 +78,12 @@ models:
         +access: private        # Los int_ solo pueden ser referenciados dentro de su grupo
         +group: core
       core:
+        +schema: core
         +group: core
         +access: public         # Accesible por otros grupos/proyectos
         +tags: ['core']
       marketing:
+        +schema: marketing
         +group: marketing
         +access: public
         +tags: ['marketing']
